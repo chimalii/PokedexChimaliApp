@@ -18,7 +18,7 @@
 
             <!--Se agrega android:theme en themes.xml-->
             <activity
-                android:name=".views.MainActivity"
+                android:name=".framework.views.MainActivity"
                 android:exported="true"
                 android:theme="@style/Theme.PokedexChimali.NoActionBar"
                 android:screenOrientation="portrait"
